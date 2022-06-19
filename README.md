@@ -42,7 +42,7 @@ java_home| C:\Program Files (x86)\Java\jdk1.8.0_202
 
 ## Caso prefira ver a execução do projeto de uma forma mais simples, abra o link abaixo.
 
-- [🎬Publicação](https://www.linkedin.com/in/edilson-santiago-da-silva-634588219/).  Nesse link está minha postagem em vídeo no LinkedIn.
+- [🎬Publicação](https://www.linkedin.com/feed/update/urn:li:ugcPost:6944427971386466304/).  Nesse link está minha postagem em vídeo no LinkedIn.
 
 ## Autor
 
